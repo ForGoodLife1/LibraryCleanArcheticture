@@ -1,0 +1,17 @@
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\bin\Debug\net8.0\Library.Infrustructure.deps.json
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\bin\Debug\net8.0\Library.Infrustructure.runtimeconfig.json
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\bin\Debug\net8.0\Library.Infrustructure.dll
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\bin\Debug\net8.0\Library.Infrustructure.pdb
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\bin\Debug\net8.0\Library.Data.dll
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\bin\Debug\net8.0\Library.Data.pdb
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\Library.Infrustructure.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\Library.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\Library.Infrustructure.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\Library.Infrustructure.AssemblyInfo.cs
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\Library.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\Library..FDB901CB.Up2Date
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\Library.Infrustructure.dll
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\refint\Library.Infrustructure.dll
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\Library.Infrustructure.pdb
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\Library.Infrustructure.genruntimeconfig.cache
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Infrustructure\obj\Debug\net8.0\ref\Library.Infrustructure.dll

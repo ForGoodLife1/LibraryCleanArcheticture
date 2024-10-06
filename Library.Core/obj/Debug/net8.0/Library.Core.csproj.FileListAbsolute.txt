@@ -1,0 +1,8 @@
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\Library.Core.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\Library.Core.Resources.SharedResources.ar.resources
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\Library.Core.Resources.SharedResources.en.resources
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\Library.Core.csproj.GenerateResource.cache
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\Library.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\Library.Core.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\Library.Core.AssemblyInfo.cs
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\Library.Core.csproj.CoreCompileInputs.cache
