@@ -1,4 +1,6 @@
-﻿namespace Library.Core.Mapping.ApplicationUser
+﻿using AutoMapper;
+
+namespace Library.Core.Mapping.ApplicationUser
 {
     public partial class ApplicationUserProfile : Profile
     {

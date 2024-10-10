@@ -1,4 +1,5 @@
-﻿using Library.Core.Bases;
+﻿using AutoMapper;
+using Library.Core.Bases;
 using Library.Core.Features.ApplicationUser.Commands.Models;
 using Library.Core.Resources;
 using Library.Data.Entities.Identity;

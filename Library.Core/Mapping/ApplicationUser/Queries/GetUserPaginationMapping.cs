@@ -7,7 +7,7 @@ namespace Library.Core.Mapping.ApplicationUser
     {
         public void GetUserPaginationMapping()
         {
-            CreateMap<User, GetUserPaginationReponse>();
+            CreateMap<IdUser, GetUserPaginationReponse>();
 
         }
     }

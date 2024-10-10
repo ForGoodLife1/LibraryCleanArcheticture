@@ -7,7 +7,7 @@ namespace Library.Core.Mapping.ApplicationUser
     {
         public void GetUserByIdMapping()
         {
-            CreateMap<User, GetUserByIdResponse>();
+            CreateMap<IdUser, GetUserByIdResponse>();
         }
     }
 }

@@ -15,3 +15,4 @@ C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Service\obj\Debug\
 C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Service\obj\Debug\net8.0\refint\Library.Service.dll
 C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Service\obj\Debug\net8.0\Library.Service.pdb
 C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Service\obj\Debug\net8.0\ref\Library.Service.dll
+C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Service\obj\Debug\net8.0\Library.Service.sourcelink.json

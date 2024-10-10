@@ -7,7 +7,7 @@ namespace Library.Core.Mapping.ApplicationUser
     {
         public void UpdateUserMapping()
         {
-            CreateMap<EditUserCommand, User>();
+            CreateMap<EditUserCommand, IdUser>();
         }
     }
 }

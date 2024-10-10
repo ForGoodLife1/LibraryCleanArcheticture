@@ -1,4 +1,6 @@
-﻿namespace Library.Core.Mapping.Roles
+﻿using AutoMapper;
+
+namespace Library.Core.Mapping.Roles
 {
     public partial class RoleProfile : Profile
     {

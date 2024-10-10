@@ -1,4 +1,5 @@
-﻿using Library.Core.Bases;
+﻿using AutoMapper;
+using Library.Core.Bases;
 using Library.Core.Features.Authorization.Quaries.Models;
 using Library.Core.Features.Authorization.Quaries.Results;
 using Library.Core.Resources;

@@ -1,4 +1,5 @@
-﻿using Library.Core.Bases;
+﻿using AutoMapper;
+using Library.Core.Bases;
 using Library.Core.Features.ApplicationUser.Queries.Models;
 using Library.Core.Features.ApplicationUser.Queries.Results;
 using Library.Core.Resources;

@@ -1,4 +1,6 @@
-﻿namespace Library.Core.Wrappers
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace Library.Core.Wrappers
 {
     public static class QueryableExtensions
     {
