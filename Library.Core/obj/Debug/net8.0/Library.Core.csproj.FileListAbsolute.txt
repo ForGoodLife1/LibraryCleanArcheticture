@@ -25,3 +25,15 @@ C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net
 C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\refint\Library.Core.dll
 C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\Library.Core.pdb
 C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Core\obj\Debug\net8.0\ref\Library.Core.dll
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.Resources.SharedResources.ar.resources
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.Resources.SharedResources.en.resources
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.csproj.GenerateResource.cache
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.AssemblyInfo.cs
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.sourcelink.json
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.dll
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\refint\Library.Core.dll
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Core\obj\Debug\net8.0\Library.Core.pdb

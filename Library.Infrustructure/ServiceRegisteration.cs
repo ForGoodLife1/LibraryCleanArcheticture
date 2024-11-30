@@ -72,7 +72,7 @@ namespace Library.Infrustructure
             //Swagger Gn
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "School Project", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Library", Version = "v1" });
                 c.EnableAnnotations();
 
                 c.AddSecurityDefinition(JwtBearerDefaults.AuthenticationScheme, new OpenApiSecurityScheme
@@ -102,17 +102,17 @@ namespace Library.Infrustructure
 
             services.AddAuthorization(option =>
             {
-                option.AddPolicy("CreateStudent", policy =>
+                option.AddPolicy("CreateUser", policy =>
                 {
-                    policy.RequireClaim("Create Student", "True");
+                    policy.RequireClaim("Create User", "True");
                 });
-                option.AddPolicy("DeleteStudent", policy =>
+                option.AddPolicy("DeleteUser", policy =>
                 {
-                    policy.RequireClaim("Delete Student", "True");
+                    policy.RequireClaim("Delete User", "True");
                 });
-                option.AddPolicy("EditStudent", policy =>
+                option.AddPolicy("EditUser", policy =>
                 {
-                    policy.RequireClaim("Edit Student", "True");
+                    policy.RequireClaim("Edit User", "True");
                 });
             });
 

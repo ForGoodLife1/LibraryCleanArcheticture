@@ -1,4 +1,4 @@
-﻿namespace Library.Infrustructure.Entities;
+﻿namespace Library.Data.Entities;
 
 public partial class Setting
 {

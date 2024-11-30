@@ -1,15 +1,17 @@
-﻿namespace Library.Infrustructure.Entities;
+﻿using Library.Data.Commons;
 
-public partial class User
+namespace Library.Data.Entities;
+
+public partial class User : GeneralLocalizableEntity
 {
     public int UserId { get; set; }
 
-    public string NameAr { get; set; } = null!;
-    public string NameEn { get; set; } = null!;
+    public string? NameAr { get; set; }
+    public string? NameEn { get; set; }
 
-    public string ContactInformation { get; set; } = null!;
+    public string? ContactInformation { get; set; }
 
-    public string LibraryCardNumber { get; set; } = null!;
+    public string? LibraryCardNumber { get; set; }
 
     public virtual ICollection<BorrowingRecord> BorrowingRecords { get; set; } = new List<BorrowingRecord>();
 

@@ -6250,19 +6250,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fares\\.nuget\\packages\\": {}
+    "C:\\Users\\fares\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\Library.CleanArcheticture\\Library.Core\\Library.Core.csproj",
+      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Core\\Library.Core.csproj",
       "projectName": "Library.Core",
-      "projectPath": "C:\\Users\\fares\\source\\repos\\Library.CleanArcheticture\\Library.Core\\Library.Core.csproj",
+      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Core\\Library.Core.csproj",
       "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fares\\source\\repos\\Library.CleanArcheticture\\Library.Core\\obj\\",
+      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6270,21 +6275,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fares\\source\\repos\\Library.CleanArcheticture\\Library.Data\\Library.Data.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\Library.CleanArcheticture\\Library.Data\\Library.Data.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Data\\Library.Data.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Data\\Library.Data.csproj"
             },
-            "C:\\Users\\fares\\source\\repos\\Library.CleanArcheticture\\Library.Infrustructure\\Library.Infrustructure.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\Library.CleanArcheticture\\Library.Infrustructure\\Library.Infrustructure.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Infrustructure\\Library.Infrustructure.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Infrustructure\\Library.Infrustructure.csproj"
             },
-            "C:\\Users\\fares\\source\\repos\\Library.CleanArcheticture\\Library.Service\\Library.Service.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\Library.CleanArcheticture\\Library.Service\\Library.Service.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Service\\Library.Service.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Service\\Library.Service.csproj"
             }
           }
         }
@@ -6297,8 +6301,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -6353,8 +6358,90 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Caching.Memory' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Security.Cryptography.Xml' 4.5.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vh55-786g-wjwj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.Json' 8.0.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.RegularExpressions' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-cmhx-cq75-c4mj",
+      "libraryId": "System.Text.RegularExpressions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

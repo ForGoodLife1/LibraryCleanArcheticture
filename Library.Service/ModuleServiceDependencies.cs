@@ -17,6 +17,12 @@ namespace Library.Service
             services.AddTransient<IApplicationUserService, ApplicationUserService>();
             services.AddTransient<ICurrentUserService, CurrentUserService>();
             services.AddTransient<IFileService, FileService>();
+            services.AddTransient<IUserService, UserService>();
+            services.AddTransient<IReservationService, ReservationService>();
+            services.AddTransient<IFineService, FineService>();
+            services.AddTransient<IBorrowingRecordService, BorrowingRecordService>();
+            services.AddTransient<IBookService, BookService>();
+            services.AddTransient<IBookCopyService, BookCopyService>();
             return services;
 
         }

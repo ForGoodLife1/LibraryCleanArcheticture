@@ -23,4 +23,13 @@
     <ProjectReference Include="..\Library.Service\Library.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\sss\Commands\Handlers\" />
+    <Folder Include="Features\sss\Commands\Models\" />
+    <Folder Include="Features\sss\Commands\Validatiors\" />
+    <Folder Include="Features\sss\Queries\Handlers\" />
+    <Folder Include="Features\sss\Queries\Models\" />
+    <Folder Include="Features\sss\Queries\Responses\" />
+  </ItemGroup>
+
 </Project>

@@ -178,3 +178,14 @@ C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Api\obj\Debug\net8
 C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Api\obj\Debug\net8.0\Library.Api.pdb
 C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Api\obj\Debug\net8.0\Library.Api.genruntimeconfig.cache
 C:\Users\fares\source\repos\Library.CleanArcheticture\Library.Api\obj\Debug\net8.0\ref\Library.Api.dll
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\Library.Api.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\Library.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\Library.Api.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\Library.Api.AssemblyInfo.cs
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\Library.Api.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\Library.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\Library.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\Library.Api.sourcelink.json
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\Library.Api.dll
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\refint\Library.Api.dll
+C:\Users\fares\source\repos\CleanArcheticture\Library.CleanArcheticture\Back\Library.Api\obj\Debug\net8.0\Library.Api.pdb
