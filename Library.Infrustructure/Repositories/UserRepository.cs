@@ -1,7 +1,7 @@
-﻿using Library.Infrastructure.InfrastructureBases;
+﻿using Library.Data.Entities;
+using Library.Infrastructure.InfrastructureBases;
 using Library.Infrustructure.Abstracts;
 using Library.Infrustructure.AppDbContext;
-using Library.Infrustructure.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Library.Infrustructure.Repositories

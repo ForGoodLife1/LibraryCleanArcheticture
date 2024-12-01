@@ -1,5 +1,5 @@
 ﻿using Library.Core.Features.UserCQRS.UserCommands.UserCommandModels;
-using Library.Infrustructure.Entities;
+using Library.Data.Entities;
 
 namespace Library.Core.Mapping.Users
 {
@@ -8,7 +8,7 @@ namespace Library.Core.Mapping.Users
         public void AddUserCQRSMapping()
         {
 
-            CreateMap<AddUserCQRSCCommand, User>();
+            CreateMap<AddUserCQRSCommand, User>();
 
 
         }

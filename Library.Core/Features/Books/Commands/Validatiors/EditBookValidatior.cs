@@ -1,11 +1,12 @@
 ﻿using FluentValidation;
+using Library.Core.Features.Books.Commands.Models;
 using Library.Core.Resources;
 using Library.Service.Abstracts;
 using Microsoft.Extensions.Localization;
 
 namespace Library.Core.Features.Books.Commands.Validatiors
 {
-    public class EditBookValidatior : AbstractValidator<AddBookCommand>
+    public class EditBookValidatior : AbstractValidator<EditBookCommand>
     {
         #region Fields
         private readonly IBookService _BookService;

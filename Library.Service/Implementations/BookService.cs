@@ -1,6 +1,6 @@
-﻿using Library.Data.Enums;
+﻿using Library.Data.Entities;
+using Library.Data.Enums;
 using Library.Infarastructure.InfrastructureBases;
-using Library.Infrustructure.Entities;
 using Library.Service.Abstracts;
 using Microsoft.EntityFrameworkCore;
 using Serilog;

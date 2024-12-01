@@ -1,4 +1,5 @@
 ﻿using FluentValidation;
+using Library.Core.Features.Books.Commands.Models;
 using Library.Core.Resources;
 using Library.Service.Abstracts;
 using Microsoft.Extensions.Localization;

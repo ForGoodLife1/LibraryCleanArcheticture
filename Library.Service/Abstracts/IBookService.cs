@@ -1,5 +1,5 @@
-﻿using Library.Data.Enums;
-using Library.Infrustructure.Entities;
+﻿using Library.Data.Entities;
+using Library.Data.Enums;
 
 namespace Library.Service.Abstracts
 {

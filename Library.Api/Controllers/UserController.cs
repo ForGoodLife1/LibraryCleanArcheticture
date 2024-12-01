@@ -17,12 +17,12 @@ namespace Library.Api.Controllers
         [ServiceFilter(typeof(AuthFilter))]
         public async Task<IActionResult> GetUserList()
         {
-            var response = await Mediator.Send(new GetUserListQuery());
+            var response = await Mediator.Send(new GetUserCQRSListQuery());
             return Ok(response);
         }
         [AllowAnonymous]
         [HttpGet(Router.UserRouting.Paginated)]
-        public async Task<IActionResult> Paginated([FromQuery] GetUserPaginatedListQuery query)
+        public async Task<IActionResult> Paginated([FromQuery] GetUserCQRSPaginatedListQuery query)
         {
             var response = await Mediator.Send(query);
             return Ok(response);

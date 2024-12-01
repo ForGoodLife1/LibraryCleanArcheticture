@@ -6,9 +6,9 @@ namespace Library.Data.Helpers
     {
         public static List<Claim> claims = new()
         {
-            new Claim("Create Student","false"),
-            new Claim("Edit Student","false"),
-            new Claim("Delete Student","false"),
+            new Claim("Create User","false"),
+            new Claim("Edit User","false"),
+            new Claim("Delete User","false"),
         };
     }
 }

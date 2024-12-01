@@ -1,5 +1,5 @@
 ﻿using Library.Core.Features.UserCQRS.UserQueries.UserQueryResponses;
-using Library.Infrustructure.Entities;
+using Library.Data.Entities;
 
 namespace Library.Core.Mapping.Users
 {

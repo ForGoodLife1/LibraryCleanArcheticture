@@ -1,5 +1,5 @@
-﻿using Library.Infarastructure.InfrastructureBases;
-using Library.Infrustructure.Entities;
+﻿using Library.Data.Entities;
+using Library.Infarastructure.InfrastructureBases;
 
 namespace Library.Infrustructure.Abstracts
 {

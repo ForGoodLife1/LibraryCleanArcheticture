@@ -1,4 +1,4 @@
-﻿using Library.Infrustructure.Entities;
+﻿using Library.Data.Entities;
 
 namespace Library.Service.Abstracts
 {

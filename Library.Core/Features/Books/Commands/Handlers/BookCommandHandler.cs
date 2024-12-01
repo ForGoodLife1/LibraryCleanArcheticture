@@ -46,7 +46,7 @@ namespace Library.Core.Features.Books.Commands.Handlers
         public async Task<Response<string>> Handle(EditBookCommand request, CancellationToken cancellationToken)
         {
             //Check if the Id is Exist Or not
-            var Book = await _BookService.GetByIDAsync(request.Id);
+            var Book = await _BookService.GetByIDAsync(request.BookId);
             //return NotFound
             if (Book==null) return NotFound<string>();
             //mapping Between request and Book
@@ -61,7 +61,7 @@ namespace Library.Core.Features.Books.Commands.Handlers
         public async Task<Response<string>> Handle(DeleteBookCommand request, CancellationToken cancellationToken)
         {
             //Check if the Id is Exist Or not
-            var Book = await _BookService.GetByIDAsync(request.Id);
+            var Book = await _BookService.GetByIDAsync(request.BookId);
             //return NotFound
             if (Book==null) return NotFound<string>();
             //Call service that make Delete
