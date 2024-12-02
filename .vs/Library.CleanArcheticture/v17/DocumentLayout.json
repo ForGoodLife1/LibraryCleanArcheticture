@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{064F2CE4-BE6F-4ADC-B6AB-7E6F336DDF33}|Library.Api\\Library.Api.csproj|c:\\users\\fares\\source\\repos\\cleanarcheticture\\library.cleanarcheticture\\back\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064F2CE4-BE6F-4ADC-B6AB-7E6F336DDF33}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064F2CE4-BE6F-4ADC-B6AB-7E6F336DDF33}|Library.Api\\Library.Api.csproj|c:\\users\\fares\\source\\repos\\cleanarcheticture\\library.cleanarcheticture\\back\\library.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064F2CE4-BE6F-4ADC-B6AB-7E6F336DDF33}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Library.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Api\\Program.cs",
+              "RelativeToolTip": "Library.Api\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:46:29.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Api\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library.Api\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\Library.CleanArcheticture\\Back\\Library.Api\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library.Api\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:42:13.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
